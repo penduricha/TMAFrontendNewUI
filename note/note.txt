@@ -1,0 +1,16 @@
+Base layout sẽ bao gồm:
+- Init source
+- Tạo cấu trúc thư mục cần thiết
+- Install các thư viện cần thiết:
+npm i bootstrap
+npm i vue-router
+
+
+Deadline: 30 phút
+Implement UI phần header bao gồm:
+- Thanh search
+- Avatar profile
+- Chuông thông báo
+
+Deadline: 1 giờ 30 phút
+Git riêng: https://github.com/penduricha/TMAFrontendNewUI
