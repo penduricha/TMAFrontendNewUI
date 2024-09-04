@@ -1,0 +1,32 @@
+[
+  {
+    "name": "USA",
+    "GDP": 30,
+    "backgroundColor": "#3665ca"
+  },
+  {
+    "name": "China",
+    "GDP": 25,
+    "backgroundColor": "#da3b15"
+  },
+  {
+    "name": "Russia",
+    "GDP": 10,
+    "backgroundColor": "#f89c0b"
+  },
+  {
+    "name": "Germany",
+    "GDP": 8,
+    "backgroundColor": "#16951e"
+  },
+  {
+    "name": "United Kingdom",
+    "GDP": 10,
+    "backgroundColor": "#970c9b"
+  },
+  {
+    "name": "Turkey",
+    "GDP": 7,
+    "backgroundColor": "#3c3daa"
+  }
+]
