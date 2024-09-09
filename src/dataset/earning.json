@@ -1,0 +1,26 @@
+[
+  {
+    "time": "Jan 1, 11 am",
+    "salary": 250
+  },
+  {
+    "time": "Jan 2, 10 am",
+    "salary": 200
+  },
+  {
+    "time": "Jan 3, 9 am",
+    "salary": 450
+  },
+  {
+    "time": "Jan 4, 8 am",
+    "salary": 400
+  },
+  {
+    "time": "Jan 5, 7 am",
+    "salary": 700
+  },
+  {
+    "time": "Jan 6, 6 am",
+    "salary": 450
+  }
+]
